@@ -80,16 +80,16 @@ public DialogueSystem dialogueSystem;
 dialogueSystem.StartDialogue(yourDialogueAsset);
 ```
 ### 5. Hotkeys редактора
-• Shift + ПКМ - создать новый узел
-• Ctrl + ПКМ - удалить узел под курсором
-• Средняя кнопка мыши - панорамирование
-• Delete - удалить выделенный узел
-• Shift + клик при создании связи - создать последовательную связь
+- Shift + ПКМ - создать новый узел
+- Ctrl + ПКМ - удалить узел под курсором
+- Средняя кнопка мыши - панорамирование
+- Delete - удалить выделенный узел
+- Shift + клик при создании связи - создать последовательную связь
 
 
 
 
-
+## Project Overview
 
 The dialogue system is a visual editor and runtime components for creating and managing
 dialogues in Unity games. The system supports a tree-like dialogue structure with the
@@ -165,8 +165,8 @@ public DialogueSystem dialogueSystem;
 dialogueSystem.StartDialogue(yourDialogueAsset);
 ```
 ### 5. Editor Hotkeys
-• Shift + Right-click - create new node
-• Ctrl + Right-click - delete node under cursor
-• Middle mouse button - panning
-• Delete - delete selected node
-• Shift + click when creating connection - create sequential connection
+- Shift + Right-click - create new node
+- Ctrl + Right-click - delete node under cursor
+- Middle mouse button - panning
+- Delete - delete selected node
+- Shift + click when creating connection - create sequential connection
