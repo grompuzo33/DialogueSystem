@@ -79,12 +79,12 @@ public DialogueSystem dialogueSystem;
 // Запуск диалога
 dialogueSystem.StartDialogue(yourDialogueAsset);
 ```
-Hotkeys редактора
- Shift + ПКМ - создать новый узел
- Ctrl + ПКМ - удалить узел под курсором
- Средняя кнопка мыши - панорамирование
- Delete - удалить выделенный узел
- Shift + клик при создании связи - создать последовательную связь
+### 5. Hotkeys редактора
+• Shift + ПКМ - создать новый узел
+• Ctrl + ПКМ - удалить узел под курсором
+• Средняя кнопка мыши - панорамирование
+• Delete - удалить выделенный узел
+• Shift + клик при создании связи - создать последовательную связь
 
 
 
@@ -164,9 +164,9 @@ public DialogueSystem dialogueSystem;
 // Start dialogue
 dialogueSystem.StartDialogue(yourDialogueAsset);
 ```
-Editor Hotkeys
- Shift + Right-click - create new node
- Ctrl + Right-click - delete node under cursor
- Middle mouse button - panning
- Delete - delete selected node
- Shift + click when creating connection - create sequential connection
+### 5. Editor Hotkeys
+• Shift + Right-click - create new node
+• Ctrl + Right-click - delete node under cursor
+• Middle mouse button - panning
+• Delete - delete selected node
+• Shift + click when creating connection - create sequential connection
