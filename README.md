@@ -54,19 +54,23 @@
 1. В меню Unity: `Assets/Create/Dialogue System/Dialogue`
 2. Откройте редактор: `Window/Dialogue Editor`
 3. Выберите созданный asset диалога
-### 2. Работа с редактором
-**Создание узлов**
-- Кнопка "New Node" в тулбаре
-- Shift + ПКМ на сетке
-**Создание связей**
-- Зеленые линии - связи через варианты ответов
-- Синие линии - последовательные связи (NextNodeID)
-- Кнопки "Connect From/To" в узле
-- Shift + клик для последовательных связей
-**Удаление узлов**
-- Кнопка "X" в узле
-- Ctrl + ПКМ по узлу
+### 2. Работа с редактором  
+
+**Создание узлов**  
+- Кнопка "New Node" в тулбаре  
+- Shift + ПКМ на сетке  
+
+**Создание связей**  
+- Зеленые линии — связи через варианты ответов  
+- Синие линии — последовательные связи (NextNodeID)  
+- Кнопки "Connect From/To" в узле  
+- Shift + клик для последовательных связей  
+
+**Удаление узлов**  
+- Кнопка "X" в узле  
+- Ctrl + ПКМ по узлу  
 - Клавиша Delete при выделенном узле
+  
 ### 3. Настройка событий
 В каждом узле можно задать:
 - `OnEnterEvent` - вызывается при входе в узел
@@ -140,18 +144,22 @@ ability to create branches, events, and sequential connections.
 2. Open the editor: `Window/Dialogue Editor`
 3. Select the created dialogue asset
 ### 2. Working with the Editor
+
 **Creating Nodes**
 - "New Node" button in toolbar
 - Shift + Right-click on grid
+
 **Creating Connections**
 - Green lines - connections through response options
 - Blue lines - sequential connections (NextNodeID)
 - "Connect From/To" buttons in node
 - Shift + click for sequential connections
+
 **Deleting Nodes**
 - "X" button in node
 - Ctrl + Right-click on node
 - Delete key when node is selected
+
 ### 3. Configuring Events
 In each node you can set:
 - `OnEnterEvent` - triggered when entering the node
