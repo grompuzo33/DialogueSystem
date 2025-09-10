@@ -55,15 +55,15 @@
 2. Откройте редактор: `Window/Dialogue Editor`
 3. Выберите созданный asset диалога
 ### 2. Работа с редактором
-**Создание узлов**:
+**Создание узлов**
 - Кнопка "New Node" в тулбаре
 - Shift + ПКМ на сетке
-**Создание связей**:
+**Создание связей**
 - Зеленые линии - связи через варианты ответов
 - Синие линии - последовательные связи (NextNodeID)
 - Кнопки "Connect From/To" в узле
 - Shift + клик для последовательных связей
-**Удаление узлов**:
+**Удаление узлов**
 - Кнопка "X" в узле
 - Ctrl + ПКМ по узлу
 - Клавиша Delete при выделенном узле
@@ -140,15 +140,15 @@ ability to create branches, events, and sequential connections.
 2. Open the editor: `Window/Dialogue Editor`
 3. Select the created dialogue asset
 ### 2. Working with the Editor
-**Creating Nodes**:
+**Creating Nodes**
 - "New Node" button in toolbar
 - Shift + Right-click on grid
-**Creating Connections**:
+**Creating Connections**
 - Green lines - connections through response options
 - Blue lines - sequential connections (NextNodeID)
 - "Connect From/To" buttons in node
 - Shift + click for sequential connections
-**Deleting Nodes**:
+**Deleting Nodes**
 - "X" button in node
 - Ctrl + Right-click on node
 - Delete key when node is selected
