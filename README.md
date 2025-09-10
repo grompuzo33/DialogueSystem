@@ -1,3 +1,5 @@
+[[Video Demonstration]([https://www.youtube.com/watch?v=XXXXXXX](https://www.youtube.com/watch?v=uMmvD-y9hSI))](https://www.youtube.com/watch?v=uMmvD-y9hSI)
+
 ## Обзор проекта
 Система диалогов представляет собой визуальный редактор и runtime-компоненты
 для создания и управления диалогами в играх на Unity. Система поддерживает
