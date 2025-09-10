@@ -72,6 +72,7 @@
 public DialogueSystem dialogueSystem;
 // Запуск диалога
 dialogueSystem.StartDialogue(yourDialogueAsset);
+```
 Hotkeys редактора
 • Shift + ПКМ - создать новый узел
 • Ctrl + ПКМ - удалить узел под курсором
@@ -156,6 +157,7 @@ Events are handled in `DialogueEventHandler`
 public DialogueSystem dialogueSystem;
 // Start dialogue
 dialogueSystem.StartDialogue(yourDialogueAsset);
+```
 Editor Hotkeys
 • Shift + Right-click - create new node
 • Ctrl + Right-click - delete node under cursor
